@@ -2,7 +2,7 @@ package ArrayssII;
 
 public class Duplicados {
 
-    public static int repetidos(int[]lista){
+    public static int duplicados(int[]lista){
         int duplicados=0;
         int num=0;
         int posicion=0;
@@ -20,6 +20,6 @@ public class Duplicados {
 
     public static void main(String[] args) {
         int[] llista={1,2,2,4,5,6,4,2};
-        System.out.println("Hi han "+repetidos(llista)+" duplicados");
+        System.out.println("Hi han "+duplicados(llista)+" duplicados");
     }
 }
