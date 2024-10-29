@@ -18,7 +18,7 @@ public class Duplicados {
     }
 
     public static void main(String[] args) {
-        int[] llista={1,2,2,4,5,6,4,2};
+        int[] llista={1,2,2,4,5,6,4,5};
         System.out.println("Els duplicats son "+duplicados(llista));
     }
 }
