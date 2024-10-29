@@ -7,9 +7,10 @@ public class SumaIgual {
     public static String suma(int [] lista, int numfinal){
         String numeros="";
         for (int i = 0; i < lista.length; i++) {
-            for (int j = 0; j < lista.length; j++) {
+            for (int j = i+1; j < lista.length; j++) {
                 if(lista[i]+lista[j]==numfinal){
-                    numeros=lista[i]+"+"+lista[j];
+                     numeros=numeros+" "+lista[i]+"+"+lista[j];
+                     break;
                 }
             }
         }
