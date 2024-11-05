@@ -17,7 +17,6 @@ public class Moverceros {
         }
         return llista2;
     }
-
     public static void main(String[] args) {
         int [] lista={1,2,0,9,8,0,8};
         System.out.println(Arrays.toString(moverceros(lista)));

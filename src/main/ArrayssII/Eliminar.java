@@ -14,6 +14,7 @@ public class Eliminar {
         }
         llista2[(llista.length-1)]=llista[posicio];
         return llista2;
+
     }
 
 
