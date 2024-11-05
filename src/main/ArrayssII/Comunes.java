@@ -15,8 +15,8 @@ public class Comunes {
     }
 
     public static void main(String[] args) {
-        int [] llista1={4,5,7,4,3};
-        int [] llista2={4,3,6};
+        int [] llista1={4,5,7,3};
+        int [] llista2={4,3,6,8};
         System.out.println(comunes(llista1,llista2));
     }
 }
