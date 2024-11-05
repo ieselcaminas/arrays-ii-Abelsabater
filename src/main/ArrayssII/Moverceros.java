@@ -15,6 +15,7 @@ public class Moverceros {
                 ceros++;
             }
         }
+
         return llista2;
     }
     public static void main(String[] args) {

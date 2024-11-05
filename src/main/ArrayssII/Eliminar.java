@@ -18,6 +18,7 @@ public class Eliminar {
 
 
 
+
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int [] llista={1,2,3,4,5};

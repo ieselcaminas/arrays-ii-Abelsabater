@@ -11,6 +11,7 @@ public class Comunes {
                 }
             }
         }
+
         return comuns;
     }
     public static void main(String[] args) {

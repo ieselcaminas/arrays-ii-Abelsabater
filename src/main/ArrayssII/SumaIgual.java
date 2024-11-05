@@ -18,6 +18,7 @@ public class SumaIgual {
     }
 
 
+
     public static void main(String[] args) {
         int numeros;
         int num2;

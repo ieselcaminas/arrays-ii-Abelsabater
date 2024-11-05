@@ -15,4 +15,5 @@ public class Inverso {
         System.out.println(Arrays.toString(inverso(llista)));
     }
 
+
 }
