@@ -15,10 +15,6 @@ public class Eliminar {
         llista2[(llista.length-1)]=llista[posicio];
         return llista2;
     }
-
-
-
-
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int [] llista={1,2,3,4,5};

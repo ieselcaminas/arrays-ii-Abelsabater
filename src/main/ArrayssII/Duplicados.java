@@ -14,7 +14,6 @@ public class Duplicados {
                 }
             }
         }
-
         return numeros;
     }
     public static void main(String[] args) {
