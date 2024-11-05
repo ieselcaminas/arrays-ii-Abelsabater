@@ -15,6 +15,7 @@ public class Iguales {
                 }else{
                     Iguals= true;
                 }
+
             }
         }
         return Iguals;

@@ -14,4 +14,5 @@ public class Inverso {
         int[] llista={1,2,3,4,4};
         System.out.println(Arrays.toString(inverso(llista)));
     }
+
 }

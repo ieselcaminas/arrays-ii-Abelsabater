@@ -13,7 +13,6 @@ public class Comunes {
         }
         return comuns;
     }
-
     public static void main(String[] args) {
         int [] llista1={4,5,7,3};
         int [] llista2={4,3,6,8};
