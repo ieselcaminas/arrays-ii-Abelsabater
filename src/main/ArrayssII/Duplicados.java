@@ -9,7 +9,7 @@ public class Duplicados {
             num=lista[i];
             for (int j = i+1; j < lista.length; j++) {
                 if(num==lista[j]){
-                    numeros=numeros+num+" ";
+                    numeros+=num+" ";
                     break;
                 }
             }
