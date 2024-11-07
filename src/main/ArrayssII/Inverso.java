@@ -11,7 +11,7 @@ public class Inverso {
         return llista2;
     }
     public static void main(String[] args) {
-        int[] llista={1,2,3,4,4};
+        int[] llista={1,2,3,4,4,8,6,3,2,0};
         System.out.println(Arrays.toString(inverso(llista)));
     }
 }
